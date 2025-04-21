@@ -1,0 +1,7 @@
+git -v
+git init
+git config --list
+git config --global user.name LSJ
+git config --global user.email tltlgns9@naver.com
+git status
+git add  // 올릴 파일을 스테이지에 올리는 커맨드 // ex : git add tsconfig.json
