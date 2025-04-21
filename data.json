@@ -1,0 +1,12 @@
+{
+    "string": "Hellos, World!",
+    "number": 55,
+    "boolean": true,
+    "null": null,
+    "array": [1, "string", false],
+    "object": {
+        "key1": "valuse",
+        "key2": 2,
+        "key3": true
+    }
+}
